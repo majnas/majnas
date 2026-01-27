@@ -18,7 +18,9 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>  
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/tablerio/tablerio-icon.svg" alt="bash" width="55" height="55"/>
   <!-- <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="55" height="55"/> -->
   <!-- <img src="https://www.vectorlogo.zone/logos/kubeflow/kubeflow-icon.svg" alt="mlops" width="55" height="55"/> -->
   <!-- <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="llms" width="55" height="55"/> -->
