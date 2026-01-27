@@ -75,11 +75,3 @@ I care about clean abstractions, reproducible pipelines, and tools developers ac
 <a href="https://github.com/zozaai/gitex">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zozaai&repo=gitex&hide_border=true" />
 </a>
-
----
-
-## 🌐 Find Me
-
-- 🧑‍💻 GitHub: https://github.com/majnas  
-- 💼 LinkedIn: https://www.linkedin.com/in/majnasai/  
-- ✉️ Email: majnasai@gmail.com
