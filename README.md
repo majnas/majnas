@@ -50,8 +50,13 @@ Deep in build mode, shipping practical AI systems with a strong focus on **LLMs,
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<a href="https://t.me/majnasai" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/dark/telegram.svg" alt="telegram" width="16" />
+</a>
+<a href="https://www.linkedin.com/in/majnasai/" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/dark/linkedin.svg" alt="linkedin" width="16" />
+</a>
 
 ---
 
