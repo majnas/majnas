@@ -20,11 +20,29 @@
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>  
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/tablerio/tablerio-icon.svg" alt="bash" width="55" height="55"/>
-  <!-- <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="55" height="55"/> -->
-  <!-- <img src="https://www.vectorlogo.zone/logos/kubeflow/kubeflow-icon.svg" alt="mlops" width="55" height="55"/> -->
-  <!-- <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="llms" width="55" height="55"/> -->
-  <!-- <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="ollama" width="55" height="55"/> -->
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/>
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/openai-icon.svg" alt="openai" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovimio" width="55" height="55"/>
+  <img src="https://github.com/pheralb/svgl/blob/main/static/library/hugging_face.svg" alt="huggingface" width="55" height="55"/>
+
+  <!-- Ollama (dark/light aware) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/ollama.png" />
+    <img width="55" height="55" alt="ollama" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/ollama.png" />
+  </picture>
+  
+  <!-- vLLM -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/vllm-color.png" />
+    <img width="55" height="55" alt="vllm" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/vllm-color.png" />
+  </picture>
+
+  <!-- LangChain -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" />
+    <img width="55" height="55" alt="langchain" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" />
+  </picture>
+  
 </p>
 <br />
 
