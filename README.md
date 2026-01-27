@@ -61,17 +61,15 @@ I care about clean abstractions, reproducible pipelines, and tools developers ac
 ---
 
 ## ⭐ Top Repositories
-
-<a href="https://github.com/zozaai/jetcam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zozaai&repo=jetcam&hide_border=true" />
-</a>
-<a href="https://github.com/zozaai/jetvoice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zozaai&repo=jetvoice&hide_border=true" />
-</a>
-
 <a href="https://github.com/zozaai/MazeLLM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zozaai&repo=MazeLLM&hide_border=true" />
 </a>
 <a href="https://github.com/zozaai/gitex">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zozaai&repo=gitex&hide_border=true" />
+</a>
+<a href="https://github.com/zozaai/jetcam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zozaai&repo=jetcam&hide_border=true" />
+</a>
+<a href="https://github.com/zozaai/jetvoice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zozaai&repo=jetvoice&hide_border=true" />
 </a>
