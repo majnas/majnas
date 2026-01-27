@@ -13,20 +13,17 @@
   📍 Melbourne, Australia • 🧠 AI Engineer • 🛠️ Building scalable AI systems
 </p>
 
-
 <p align="center">
-  <code><img height="22" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-  <code><img height="22" alt="fastapi" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png"></code>
-  <code><img height="22" alt="pytorch" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png"></code>
-  <code><img height="22" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-  <code><img height="22" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
-  <code><img height="22" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-  <code><img height="22" alt="mlops" src="https://raw.githubusercontent.com/github/explore/main/topics/devops/devops.png"></code>
-  <code><img height="22" alt="llms" src="https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png"></code>
-  <code><img height="22" alt="ollama" src="https://raw.githubusercontent.com/github/explore/main/topics/llm/llm.png"></code>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
+  <!-- <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="55" height="55"/> -->
+  <!-- <img src="https://www.vectorlogo.zone/logos/kubeflow/kubeflow-icon.svg" alt="mlops" width="55" height="55"/> -->
+  <!-- <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="llms" width="55" height="55"/> -->
+  <!-- <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="ollama" width="55" height="55"/> -->
 </p>
-
-
 <br />
 
 Deep in build mode — shipping practical AI systems with a strong focus on **LLMs, computer vision, and MLOps**.  
@@ -34,12 +31,7 @@ I care about clean abstractions, reproducible pipelines, and tools developers ac
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🧠 AI Engineer working across **LLMs, CV, and MLOps**
-- 🛠️ Builder of developer-first AI tooling
-- 📦 Focused on reproducibility, clean APIs, and production-ready systems
-- 💬 Happy to chat about agents, tooling, infra, and AI workflows
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 ---
