@@ -46,8 +46,7 @@
 </p>
 <br />
 
-Deep in build mode — shipping practical AI systems with a strong focus on **LLMs, computer vision, and MLOps**.  
-I care about clean abstractions, reproducible pipelines, and tools developers actually enjoy using.
+Deep in build mode, shipping practical AI systems with a strong focus on **LLMs, computer vision, and MLOps**. I care about clean abstractions, reproducible pipelines, and tools developers actually enjoy using.
 
 ---
 
