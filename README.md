@@ -69,11 +69,5 @@ Deep in build mode, shipping practical AI systems with a strong focus on **LLMs,
 
 ---
 
-## 📊 GitHub Stats
-
-| <a href="https://github.com/majnas"><img align="center" src="https://github-readme-stats.vercel.app/api?username=majnas&show_icons=true&include_all_commits=true&hide_border=true" /></a> | <a href="https://github.com/majnas"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majnas&layout=compact&hide_border=true" /></a> |
-| --- | --- |
-
----
 
 
